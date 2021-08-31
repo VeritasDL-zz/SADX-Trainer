@@ -74,7 +74,7 @@ Download the [Latest Release Here](https://github.com/VeritasDL/SADX-Trainer/rel
 * Move Task To Me - Once this is enabled, Pressing D-Pad Down on the Controller will teleport what ever "Object" The game thinks you are holding. *Note: This Requires setting up SRM to function properly.*
 * Lock Held Object - Once enabled it will lock the Held Object Task, making it so you can set up a cheated verion of SRM *Note: Enable once Holding a Object, then throw the object away, and change acts to enable SRM*
 * Record - Once Enabled it will log all of the Main Subroutine Pointers to the TextBox, usefull for checking what object your referencing, *Note: Need IDA and the SADX IDA DB or Ghidra for cross referencing.*  
-* 
+
 ## Physics And Position Tab
 * This Tab Shows info about the player.
 * Set Selected Task Pos - This Will Set the Postion of what ever Task you have selected under the Tasks And Workers.
