@@ -59,9 +59,9 @@ Download the [Latest Release Here](https://github.com/VeritasDL/SADX-Trainer/rel
 
 ## Tasks & Workers Tab 
 * First, Next, Prev - These are for exploring the list of Task workers, you must select a Pointer # before you can use any of the buttons.
-* Move - This will move the selected Task's Position to yours.
+* Move - This will move the selected Task's Position to yours. *Note: Task must have a Taskworker and Collision Worker*
 * Custom - This is where you would put your own custom TaskWork Pointers to explore.
-* Move Task To Me - Once Checked Pressing D-Pad Down on the Controller will move the selected Task to you.
+* Move Task To Me - Once Checked Pressing D-Pad Down on the Controller will move the selected Task to you. *Note: Task must have a Taskworker and Collision Worker*
 
 * SetObjData Pointers - First, Next, Back - these are for exploring the list of SETObjData TaskWorkers,   
 * First - This gets the first SETObjData TaskWorker.   
@@ -72,13 +72,13 @@ Download the [Latest Release Here](https://github.com/VeritasDL/SADX-Trainer/rel
 
 ## Research Tab 
 * This Tab Shows info on the current Held Objects TaskWorker.   
-* Move Task To Me - Once this is enabled, Pressing D-Pad Down on the Controller will teleport what ever "Object" The game thinks you are holding. *Note: This Requires setting up SRM to function properly.*
+* Move Task To Me - Once this is enabled, Pressing D-Pad Down on the Controller will teleport what ever "Object" The game thinks you are holding. *Note: This Requires setting up SRM to function properly. Task must have a Taskworker and Collision Worker*
 * Lock Held Object - Once enabled it will lock the Held Object Task, making it so you can set up a cheated verion of SRM *Note: Enable once Holding a Object, then throw the object away, and change acts to enable SRM*
 * Record - Once Enabled it will log all of the Main Subroutine Pointers to the TextBox, usefull for checking what object your referencing, *Note: Need IDA and the SADX IDA DB or Ghidra for cross referencing.*  
 
 ## Physics And Position Tab
 * This Tab Shows info about the player.
-* Set Selected Task Pos - This Will Set the Postion of what ever Task you have selected under Tasks And Workers.
+* Set Selected Task Pos - This Will Set the Postion of what ever Task you have selected under Tasks And Workers. *Note: Task must have a Taskworker and Collision Worker*
 * Save & Load Position - Once Enabled Pressing, L1 + D-Pad Right Will Save your Current Location, and Pressing L1 + D-Pad Left Will Load your Saved Location.    
 
 ## Memes Tab
