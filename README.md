@@ -92,7 +92,11 @@ Download the [Latest Release Here](https://github.com/VeritasDL/SADX-Trainer/rel
 * Run Arbitrary Code - This Requires you to have either a Object Held, or SRM set up prior. once Clicked it changes the Task's Main Subroutine Pointer to the Selected Chaos name.
 * Disable - This restores the original Main Subroutine Pointer to the Held Object/SRM
 
-
+## SpeedRun Save Tab
+* This Tab is A W.I.P
+* PLEASE enable only ONE of the checkboxs.
+* If a checkbox is checked and the player is in the Main Menu, it will write the "clean" save file for the selected Character.
+* This Does Require you to ALT-F2 in order for the save file to be loaded correctly.  
 
 
 <!-- CONTRIBUTING -->
