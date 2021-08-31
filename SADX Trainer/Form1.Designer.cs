@@ -407,15 +407,15 @@
             // metroTabControl1
             // 
             this.metroTabControl1.Controls.Add(this.metroTabPage1);
+            this.metroTabControl1.Controls.Add(this.metroTabPage4);
             this.metroTabControl1.Controls.Add(this.metroTabPage5);
             this.metroTabControl1.Controls.Add(this.metroTabPage6);
             this.metroTabControl1.Controls.Add(this.metroTabPage7);
             this.metroTabControl1.Controls.Add(this.metroTabPage3);
             this.metroTabControl1.Controls.Add(this.metroTabPage2);
-            this.metroTabControl1.Controls.Add(this.metroTabPage4);
             this.metroTabControl1.Location = new System.Drawing.Point(15, 165);
             this.metroTabControl1.Name = "metroTabControl1";
-            this.metroTabControl1.SelectedIndex = 6;
+            this.metroTabControl1.SelectedIndex = 3;
             this.metroTabControl1.Size = new System.Drawing.Size(822, 462);
             this.metroTabControl1.Style = MetroFramework.MetroColorStyle.Teal;
             this.metroTabControl1.TabIndex = 22;
@@ -794,10 +794,10 @@
             // 
             this.metroButton14.Location = new System.Drawing.Point(681, 36);
             this.metroButton14.Name = "metroButton14";
-            this.metroButton14.Size = new System.Drawing.Size(38, 23);
+            this.metroButton14.Size = new System.Drawing.Size(58, 23);
             this.metroButton14.Style = MetroFramework.MetroColorStyle.Teal;
             this.metroButton14.TabIndex = 134;
-            this.metroButton14.Text = "Next";
+            this.metroButton14.Text = "Follow";
             this.metroButton14.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.metroButton14.Click += new System.EventHandler(this.MetroButton7_Click);
             // 
