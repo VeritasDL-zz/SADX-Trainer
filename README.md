@@ -17,11 +17,6 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/VeritasDL/SADX-Trainer"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/VeritasDL/SADX-Trainer">View Demo</a>
-    ·
     <a href="https://github.com/VeritasDL/SADX-Trainer/issues">Report Bug</a>
     ·
     <a href="https://github.com/VeritasDL/SADX-Trainer/issues">Request Feature</a>
@@ -99,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@VeritasDL](https://twitter.com/veritasdl) - email
+James (Veritas) - [@VeritasDL](https://twitter.com/veritasdl)
 
 Project Link: [https://github.com/VeritasDL/SADX-Trainer](https://github.com/VeritasDL/SADX-Trainer)
 
