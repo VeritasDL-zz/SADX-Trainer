@@ -59,9 +59,9 @@ Download the [Latest Release Here](https://github.com/VeritasDL/SADX-Trainer/rel
 
 ## Tasks & Workers Tab 
 * First, Next, Prev - These are for exploring the list of Task workers, you must select a Pointer # before you can use any of the buttons.
-* Move - This will move the selected Task's Position to yours.   *Note: Task must have a Taskworker and Collision Worker*
+* Move - This will move the selected Task's Position to yours.      *Note: Task must have a Taskworker and Collision Worker*
 * Custom - This is where you would put your own custom TaskWork Pointers to explore.
-* Move Task To Me - Once Checked Pressing D-Pad Down on the Controller will move the selected Task to you.   *Note: Task must have a Taskworker and Collision Worker*
+* Move Task To Me - Once Checked Pressing D-Pad Down on the Controller will move the selected Task to you.      *Note: Task must have a Taskworker and Collision Worker*
 
 * SetObjData Pointers - First, Next, Back - these are for exploring the list of SETObjData TaskWorkers,   
 * First - This gets the first SETObjData TaskWorker.   
