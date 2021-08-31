@@ -146,13 +146,13 @@ Project Link: [https://github.com/VeritasDL/SADX-Trainer](https://github.com/Ver
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/VeritasDL/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/VeritasDL/SADX-Trainer.svg?style=for-the-badge
 [contributors-url]: https://github.com/VeritasDL/SADX-Trainer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/VeritasDL/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/VeritasDL/SADX-Trainer.svg?style=for-the-badge
 [forks-url]: https://github.com/VeritasDL/SADX-Trainer/network/members
-[stars-shield]: https://img.shields.io/github/stars/VeritasDL/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/VeritasDL/SADX-Trainer.svg?style=for-the-badge
 [stars-url]: https://github.com/VeritasDL/SADX-Trainer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/VeritasDL/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/VeritasDL/SADX-Trainer.svg?style=for-the-badge
 [issues-url]: https://github.com/VeritasDL/SADX-Trainer/issues
-[license-shield]: https://img.shields.io/github/license/VeritasDL/repo.svg?style=for-the-badge
-[license-url]: https://github.com/VeritasDL/SADX-Trainer/blob/master/LICENSE 
+[license-shield]: https://img.shields.io/github/license/VeritasDL/SADX-Trainer.svg?style=for-the-badge
+[license-url]: https://github.com/VeritasDL/SADX-Trainer/blob/main/LICENSE 
