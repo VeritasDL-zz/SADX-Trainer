@@ -41,7 +41,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+This Project started back in 2015 as something I never planned to Publicly Release due to the amount of cheating that could be done with it.
+I've decided to remove all of that stuff and make a public release for the Community to use.
 
 ### Built With
 
