@@ -78,7 +78,7 @@ Download the [Latest Release Here](https://github.com/VeritasDL/SADX-Trainer/rel
 
 ## Physics And Position Tab
 * This Tab Shows info about the player.
-* Set Selected Task Pos - This Will Set the Postion of what ever Task you have selected under the Tasks And Workers.
+* Set Selected Task Pos - This Will Set the Postion of what ever Task you have selected under Tasks And Workers.
 * Save & Load Position - Once Enabled Pressing, L1 + D-Pad Right Will Save your Current Location, and Pressing L1 + D-Pad Left Will Load your Saved Location.    
 
 ## Memes Tab
