@@ -97,6 +97,7 @@ Download the [Latest Release Here](https://github.com/VeritasDL/SADX-Trainer/rel
 * PLEASE enable only ONE of the checkboxs.
 * If a checkbox is checked and the player is in the Main Menu, it will write the "clean" save file for the selected Character.
 * This Does Require you to ALT-F2 in order for the save file to be loaded correctly.  
+* USING THIS MAY MAKE YOUR SPEEDRUNS INVALID!!!!!
 
 
 <!-- CONTRIBUTING -->
