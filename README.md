@@ -155,4 +155,4 @@ Project Link: [https://github.com/VeritasDL/SADX-Trainer](https://github.com/Ver
 [issues-shield]: https://img.shields.io/github/issues/VeritasDL/SADX-Trainer.svg?style=for-the-badge
 [issues-url]: https://github.com/VeritasDL/SADX-Trainer/issues
 [license-shield]: https://img.shields.io/github/license/VeritasDL/SADX-Trainer.svg?style=for-the-badge
-[license-url]: https://github.com/VeritasDL/SADX-Trainer/blob/main/LICENSE 
+[license-url]: https://github.com/VeritasDL/SADX-Trainer/blob/main/LICENSE
