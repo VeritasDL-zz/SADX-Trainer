@@ -54,6 +54,14 @@
             this.metroCheckBox10 = new MetroFramework.Controls.MetroCheckBox();
             this.metroButton2 = new MetroFramework.Controls.MetroButton();
             this.metroCheckBox8 = new MetroFramework.Controls.MetroCheckBox();
+            this.metroTabPage6 = new MetroFramework.Controls.MetroTabPage();
+            this.metroCheckBox22 = new MetroFramework.Controls.MetroCheckBox();
+            this.metroCheckBox18 = new MetroFramework.Controls.MetroCheckBox();
+            this.metroCheckBox19 = new MetroFramework.Controls.MetroCheckBox();
+            this.metroCheckBox16 = new MetroFramework.Controls.MetroCheckBox();
+            this.metroCheckBox17 = new MetroFramework.Controls.MetroCheckBox();
+            this.metroCheckBox15 = new MetroFramework.Controls.MetroCheckBox();
+            this.metroCheckBox14 = new MetroFramework.Controls.MetroCheckBox();
             this.metroTabPage4 = new MetroFramework.Controls.MetroTabPage();
             this.metroButton16 = new MetroFramework.Controls.MetroButton();
             this.metroLabel150 = new MetroFramework.Controls.MetroLabel();
@@ -174,14 +182,6 @@
             this.metroLabel23 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel21 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel20 = new MetroFramework.Controls.MetroLabel();
-            this.metroTabPage6 = new MetroFramework.Controls.MetroTabPage();
-            this.metroCheckBox22 = new MetroFramework.Controls.MetroCheckBox();
-            this.metroCheckBox18 = new MetroFramework.Controls.MetroCheckBox();
-            this.metroCheckBox19 = new MetroFramework.Controls.MetroCheckBox();
-            this.metroCheckBox16 = new MetroFramework.Controls.MetroCheckBox();
-            this.metroCheckBox17 = new MetroFramework.Controls.MetroCheckBox();
-            this.metroCheckBox15 = new MetroFramework.Controls.MetroCheckBox();
-            this.metroCheckBox14 = new MetroFramework.Controls.MetroCheckBox();
             this.metroTabPage7 = new MetroFramework.Controls.MetroTabPage();
             this.metroButton21 = new MetroFramework.Controls.MetroButton();
             this.metroButton20 = new MetroFramework.Controls.MetroButton();
@@ -270,9 +270,9 @@
             this.metroComboBox1 = new MetroFramework.Controls.MetroComboBox();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
+            this.metroTabPage6.SuspendLayout();
             this.metroTabPage4.SuspendLayout();
             this.metroTabPage5.SuspendLayout();
-            this.metroTabPage6.SuspendLayout();
             this.metroTabPage7.SuspendLayout();
             this.metroTabPage3.SuspendLayout();
             this.metroTabPage2.SuspendLayout();
@@ -440,7 +440,7 @@
             this.metroTabPage1.Size = new System.Drawing.Size(814, 423);
             this.metroTabPage1.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTabPage1.TabIndex = 0;
-            this.metroTabPage1.Text = "Pratice";
+            this.metroTabPage1.Text = "Practice";
             this.metroTabPage1.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.metroTabPage1.VerticalScrollbarBarColor = true;
             // 
@@ -538,6 +538,111 @@
             this.metroCheckBox8.Text = "Never Lose Rings";
             this.metroCheckBox8.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.metroCheckBox8.UseVisualStyleBackColor = true;
+            // 
+            // metroTabPage6
+            // 
+            this.metroTabPage6.Controls.Add(this.metroCheckBox22);
+            this.metroTabPage6.Controls.Add(this.metroCheckBox18);
+            this.metroTabPage6.Controls.Add(this.metroCheckBox19);
+            this.metroTabPage6.Controls.Add(this.metroCheckBox16);
+            this.metroTabPage6.Controls.Add(this.metroCheckBox17);
+            this.metroTabPage6.Controls.Add(this.metroCheckBox15);
+            this.metroTabPage6.Controls.Add(this.metroCheckBox14);
+            this.metroTabPage6.HorizontalScrollbarBarColor = true;
+            this.metroTabPage6.Location = new System.Drawing.Point(4, 35);
+            this.metroTabPage6.Name = "metroTabPage6";
+            this.metroTabPage6.Size = new System.Drawing.Size(814, 423);
+            this.metroTabPage6.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroTabPage6.TabIndex = 5;
+            this.metroTabPage6.Text = "SpeedRun Saves";
+            this.metroTabPage6.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroTabPage6.VerticalScrollbarBarColor = true;
+            // 
+            // metroCheckBox22
+            // 
+            this.metroCheckBox22.AutoSize = true;
+            this.metroCheckBox22.CausesValidation = false;
+            this.metroCheckBox22.Location = new System.Drawing.Point(17, 16);
+            this.metroCheckBox22.Name = "metroCheckBox22";
+            this.metroCheckBox22.Size = new System.Drawing.Size(52, 15);
+            this.metroCheckBox22.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroCheckBox22.TabIndex = 55;
+            this.metroCheckBox22.Text = "Sonic";
+            this.metroCheckBox22.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroCheckBox22.UseVisualStyleBackColor = true;
+            // 
+            // metroCheckBox18
+            // 
+            this.metroCheckBox18.AutoSize = true;
+            this.metroCheckBox18.Location = new System.Drawing.Point(17, 121);
+            this.metroCheckBox18.Name = "metroCheckBox18";
+            this.metroCheckBox18.Size = new System.Drawing.Size(40, 15);
+            this.metroCheckBox18.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroCheckBox18.TabIndex = 54;
+            this.metroCheckBox18.Text = "Big";
+            this.metroCheckBox18.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroCheckBox18.UseVisualStyleBackColor = true;
+            // 
+            // metroCheckBox19
+            // 
+            this.metroCheckBox19.AutoSize = true;
+            this.metroCheckBox19.Location = new System.Drawing.Point(17, 100);
+            this.metroCheckBox19.Name = "metroCheckBox19";
+            this.metroCheckBox19.Size = new System.Drawing.Size(65, 15);
+            this.metroCheckBox19.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroCheckBox19.TabIndex = 53;
+            this.metroCheckBox19.Text = "Gamma";
+            this.metroCheckBox19.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroCheckBox19.UseVisualStyleBackColor = true;
+            // 
+            // metroCheckBox16
+            // 
+            this.metroCheckBox16.AutoSize = true;
+            this.metroCheckBox16.Location = new System.Drawing.Point(17, 79);
+            this.metroCheckBox16.Name = "metroCheckBox16";
+            this.metroCheckBox16.Size = new System.Drawing.Size(48, 15);
+            this.metroCheckBox16.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroCheckBox16.TabIndex = 52;
+            this.metroCheckBox16.Text = "Amy";
+            this.metroCheckBox16.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroCheckBox16.UseVisualStyleBackColor = true;
+            // 
+            // metroCheckBox17
+            // 
+            this.metroCheckBox17.AutoSize = true;
+            this.metroCheckBox17.Location = new System.Drawing.Point(17, 58);
+            this.metroCheckBox17.Name = "metroCheckBox17";
+            this.metroCheckBox17.Size = new System.Drawing.Size(70, 15);
+            this.metroCheckBox17.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroCheckBox17.TabIndex = 51;
+            this.metroCheckBox17.Text = "Knuckles";
+            this.metroCheckBox17.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroCheckBox17.UseVisualStyleBackColor = true;
+            // 
+            // metroCheckBox15
+            // 
+            this.metroCheckBox15.AutoSize = true;
+            this.metroCheckBox15.Location = new System.Drawing.Point(17, 37);
+            this.metroCheckBox15.Name = "metroCheckBox15";
+            this.metroCheckBox15.Size = new System.Drawing.Size(45, 15);
+            this.metroCheckBox15.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroCheckBox15.TabIndex = 50;
+            this.metroCheckBox15.Text = "Tails";
+            this.metroCheckBox15.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroCheckBox15.UseVisualStyleBackColor = true;
+            // 
+            // metroCheckBox14
+            // 
+            this.metroCheckBox14.AutoSize = true;
+            this.metroCheckBox14.CausesValidation = false;
+            this.metroCheckBox14.Location = new System.Drawing.Point(17, 142);
+            this.metroCheckBox14.Name = "metroCheckBox14";
+            this.metroCheckBox14.Size = new System.Drawing.Size(68, 15);
+            this.metroCheckBox14.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroCheckBox14.TabIndex = 49;
+            this.metroCheckBox14.Text = "130 Save";
+            this.metroCheckBox14.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroCheckBox14.UseVisualStyleBackColor = true;
             // 
             // metroTabPage4
             // 
@@ -1893,111 +1998,6 @@
             this.metroLabel20.Text = "Next Task:";
             this.metroLabel20.Theme = MetroFramework.MetroThemeStyle.Dark;
             // 
-            // metroTabPage6
-            // 
-            this.metroTabPage6.Controls.Add(this.metroCheckBox22);
-            this.metroTabPage6.Controls.Add(this.metroCheckBox18);
-            this.metroTabPage6.Controls.Add(this.metroCheckBox19);
-            this.metroTabPage6.Controls.Add(this.metroCheckBox16);
-            this.metroTabPage6.Controls.Add(this.metroCheckBox17);
-            this.metroTabPage6.Controls.Add(this.metroCheckBox15);
-            this.metroTabPage6.Controls.Add(this.metroCheckBox14);
-            this.metroTabPage6.HorizontalScrollbarBarColor = true;
-            this.metroTabPage6.Location = new System.Drawing.Point(4, 35);
-            this.metroTabPage6.Name = "metroTabPage6";
-            this.metroTabPage6.Size = new System.Drawing.Size(814, 423);
-            this.metroTabPage6.Style = MetroFramework.MetroColorStyle.Teal;
-            this.metroTabPage6.TabIndex = 5;
-            this.metroTabPage6.Text = "SpeedRun Saves";
-            this.metroTabPage6.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.metroTabPage6.VerticalScrollbarBarColor = true;
-            // 
-            // metroCheckBox22
-            // 
-            this.metroCheckBox22.AutoSize = true;
-            this.metroCheckBox22.CausesValidation = false;
-            this.metroCheckBox22.Location = new System.Drawing.Point(17, 16);
-            this.metroCheckBox22.Name = "metroCheckBox22";
-            this.metroCheckBox22.Size = new System.Drawing.Size(52, 15);
-            this.metroCheckBox22.Style = MetroFramework.MetroColorStyle.Teal;
-            this.metroCheckBox22.TabIndex = 55;
-            this.metroCheckBox22.Text = "Sonic";
-            this.metroCheckBox22.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.metroCheckBox22.UseVisualStyleBackColor = true;
-            // 
-            // metroCheckBox18
-            // 
-            this.metroCheckBox18.AutoSize = true;
-            this.metroCheckBox18.Location = new System.Drawing.Point(17, 121);
-            this.metroCheckBox18.Name = "metroCheckBox18";
-            this.metroCheckBox18.Size = new System.Drawing.Size(40, 15);
-            this.metroCheckBox18.Style = MetroFramework.MetroColorStyle.Teal;
-            this.metroCheckBox18.TabIndex = 54;
-            this.metroCheckBox18.Text = "Big";
-            this.metroCheckBox18.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.metroCheckBox18.UseVisualStyleBackColor = true;
-            // 
-            // metroCheckBox19
-            // 
-            this.metroCheckBox19.AutoSize = true;
-            this.metroCheckBox19.Location = new System.Drawing.Point(17, 100);
-            this.metroCheckBox19.Name = "metroCheckBox19";
-            this.metroCheckBox19.Size = new System.Drawing.Size(65, 15);
-            this.metroCheckBox19.Style = MetroFramework.MetroColorStyle.Teal;
-            this.metroCheckBox19.TabIndex = 53;
-            this.metroCheckBox19.Text = "Gamma";
-            this.metroCheckBox19.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.metroCheckBox19.UseVisualStyleBackColor = true;
-            // 
-            // metroCheckBox16
-            // 
-            this.metroCheckBox16.AutoSize = true;
-            this.metroCheckBox16.Location = new System.Drawing.Point(17, 79);
-            this.metroCheckBox16.Name = "metroCheckBox16";
-            this.metroCheckBox16.Size = new System.Drawing.Size(48, 15);
-            this.metroCheckBox16.Style = MetroFramework.MetroColorStyle.Teal;
-            this.metroCheckBox16.TabIndex = 52;
-            this.metroCheckBox16.Text = "Amy";
-            this.metroCheckBox16.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.metroCheckBox16.UseVisualStyleBackColor = true;
-            // 
-            // metroCheckBox17
-            // 
-            this.metroCheckBox17.AutoSize = true;
-            this.metroCheckBox17.Location = new System.Drawing.Point(17, 58);
-            this.metroCheckBox17.Name = "metroCheckBox17";
-            this.metroCheckBox17.Size = new System.Drawing.Size(70, 15);
-            this.metroCheckBox17.Style = MetroFramework.MetroColorStyle.Teal;
-            this.metroCheckBox17.TabIndex = 51;
-            this.metroCheckBox17.Text = "Knuckles";
-            this.metroCheckBox17.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.metroCheckBox17.UseVisualStyleBackColor = true;
-            // 
-            // metroCheckBox15
-            // 
-            this.metroCheckBox15.AutoSize = true;
-            this.metroCheckBox15.Location = new System.Drawing.Point(17, 37);
-            this.metroCheckBox15.Name = "metroCheckBox15";
-            this.metroCheckBox15.Size = new System.Drawing.Size(45, 15);
-            this.metroCheckBox15.Style = MetroFramework.MetroColorStyle.Teal;
-            this.metroCheckBox15.TabIndex = 50;
-            this.metroCheckBox15.Text = "Tails";
-            this.metroCheckBox15.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.metroCheckBox15.UseVisualStyleBackColor = true;
-            // 
-            // metroCheckBox14
-            // 
-            this.metroCheckBox14.AutoSize = true;
-            this.metroCheckBox14.CausesValidation = false;
-            this.metroCheckBox14.Location = new System.Drawing.Point(17, 142);
-            this.metroCheckBox14.Name = "metroCheckBox14";
-            this.metroCheckBox14.Size = new System.Drawing.Size(68, 15);
-            this.metroCheckBox14.Style = MetroFramework.MetroColorStyle.Teal;
-            this.metroCheckBox14.TabIndex = 49;
-            this.metroCheckBox14.Text = "130 Save";
-            this.metroCheckBox14.Theme = MetroFramework.MetroThemeStyle.Dark;
-            this.metroCheckBox14.UseVisualStyleBackColor = true;
-            // 
             // metroTabPage7
             // 
             this.metroTabPage7.Controls.Add(this.metroButton21);
@@ -3010,7 +3010,7 @@
             this.metroLabel50.Size = new System.Drawing.Size(134, 19);
             this.metroLabel50.Style = MetroFramework.MetroColorStyle.Teal;
             this.metroLabel50.TabIndex = 41;
-            this.metroLabel50.Text = "Version 3.0 Public";
+            this.metroLabel50.Text = "Version 3.1 Public";
             this.metroLabel50.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.metroLabel50.Click += new System.EventHandler(this.MetroLabel50_Click);
             this.metroLabel50.MouseHover += new System.EventHandler(this.MetroLabel50_MouseHover);
@@ -3097,12 +3097,12 @@
             this.metroTabControl1.ResumeLayout(false);
             this.metroTabPage1.ResumeLayout(false);
             this.metroTabPage1.PerformLayout();
+            this.metroTabPage6.ResumeLayout(false);
+            this.metroTabPage6.PerformLayout();
             this.metroTabPage4.ResumeLayout(false);
             this.metroTabPage4.PerformLayout();
             this.metroTabPage5.ResumeLayout(false);
             this.metroTabPage5.PerformLayout();
-            this.metroTabPage6.ResumeLayout(false);
-            this.metroTabPage6.PerformLayout();
             this.metroTabPage7.ResumeLayout(false);
             this.metroTabPage7.PerformLayout();
             this.metroTabPage3.ResumeLayout(false);
