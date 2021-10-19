@@ -55,6 +55,7 @@
             this.metroButton2 = new MetroFramework.Controls.MetroButton();
             this.metroCheckBox8 = new MetroFramework.Controls.MetroCheckBox();
             this.metroTabPage6 = new MetroFramework.Controls.MetroTabPage();
+            this.metroButton22 = new MetroFramework.Controls.MetroButton();
             this.metroCheckBox22 = new MetroFramework.Controls.MetroCheckBox();
             this.metroCheckBox18 = new MetroFramework.Controls.MetroCheckBox();
             this.metroCheckBox19 = new MetroFramework.Controls.MetroCheckBox();
@@ -415,7 +416,7 @@
             this.metroTabControl1.Controls.Add(this.metroTabPage2);
             this.metroTabControl1.Location = new System.Drawing.Point(15, 165);
             this.metroTabControl1.Name = "metroTabControl1";
-            this.metroTabControl1.SelectedIndex = 0;
+            this.metroTabControl1.SelectedIndex = 1;
             this.metroTabControl1.Size = new System.Drawing.Size(822, 462);
             this.metroTabControl1.Style = MetroFramework.MetroColorStyle.Teal;
             this.metroTabControl1.TabIndex = 22;
@@ -541,6 +542,7 @@
             // 
             // metroTabPage6
             // 
+            this.metroTabPage6.Controls.Add(this.metroButton22);
             this.metroTabPage6.Controls.Add(this.metroCheckBox22);
             this.metroTabPage6.Controls.Add(this.metroCheckBox18);
             this.metroTabPage6.Controls.Add(this.metroCheckBox19);
@@ -557,6 +559,17 @@
             this.metroTabPage6.Text = "SpeedRun Saves";
             this.metroTabPage6.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.metroTabPage6.VerticalScrollbarBarColor = true;
+            // 
+            // metroButton22
+            // 
+            this.metroButton22.Location = new System.Drawing.Point(17, 163);
+            this.metroButton22.Name = "metroButton22";
+            this.metroButton22.Size = new System.Drawing.Size(105, 23);
+            this.metroButton22.Style = MetroFramework.MetroColorStyle.Teal;
+            this.metroButton22.TabIndex = 46;
+            this.metroButton22.Text = "Reset Gamma Save";
+            this.metroButton22.Theme = MetroFramework.MetroThemeStyle.Dark;
+            this.metroButton22.Click += new System.EventHandler(this.MetroButton22_Click);
             // 
             // metroCheckBox22
             // 
@@ -3354,6 +3367,7 @@
         private MetroFramework.Controls.MetroButton metroButton19;
         private MetroFramework.Controls.MetroButton metroButton20;
         private MetroFramework.Controls.MetroButton metroButton21;
+        private MetroFramework.Controls.MetroButton metroButton22;
     }
 }
 
